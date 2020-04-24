@@ -1,0 +1,34 @@
+[
+{
+"questao": "Eu gosto de doces",
+"doshas": [1,1,1]
+
+},
+
+{
+"questao": "Eu sou muito paciente",
+"doshas": [1,0,1]
+
+},
+
+{
+"questao": "Eu xinguei pelo menos uma vez hoje",
+"doshas": [1,1,0]
+
+},
+{
+"questao": "Eu fiz comida de bom grado para outras pessoas hoje",
+"doshas": [0,0,1]
+
+},
+{
+"questao": "Eu acordei com medo nos últimos medos",
+"doshas": [1,0,1]
+
+},
+{
+"questao": "Eu adoro falar",
+"doshas": [1,0,0]
+
+}
+]
